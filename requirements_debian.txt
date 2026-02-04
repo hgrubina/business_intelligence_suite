@@ -1,0 +1,10 @@
+# Versiones compatibles con Debian Testing
+streamlit==1.28.0
+numpy==1.24.3  # Instalar primero numpy solo
+pandas==2.1.3  # Luego pandas
+plotly==5.18.0
+
+# Instalar en ESTE orden:
+# 1. numpy solo
+# 2. pandas 
+# 3. resto
