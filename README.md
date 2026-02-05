@@ -124,6 +124,17 @@ Inventory anomaly detection	        Early warning, avoiding $120k in potential l
 Pricing optimization	            +15% revenue from dynamic pricing adjustments
 
 👥 Who Should Use This?
+|                   	|                                                                          	|
+|-------------------	|--------------------------------------------------------------------------	|
+| Role              	| Use Case                                                                 	|
+| Data Teams        	| Replace fragile Excel‑based reports with automated, validated dashboards 	|
+| Business Analysts 	| Gain deeper insights without advanced statistical training               	|
+| Startup Founders  	| Implement scalable BI from day one, with scientific rigor                	|
+| Consultants       	| Deliver client‑ready dashboards with unique validation differentiator    	|
+| Academia/Research 	| Example of physics principles applied to real‑world data                 	|
+
+
+
 
 Role	                Use Case
 Data Teams	            Replace fragile Excel‑based reports with automated, validated dashboards
