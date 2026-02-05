@@ -116,15 +116,17 @@ Implemented Solution
     Insight automation – daily email with 3‑5 key findings.
 
 Results (Quantified)
-
-Metric    	                        Improvement
-Reporting time                    	Reduced from 8 hrs/week to 20 min (‑95%)
-Margin opportunities identified	    +25% in high‑margin product mix
-Inventory anomaly detection	        Early warning, avoiding $120k in potential lost sales
-Pricing optimization	            +15% revenue from dynamic pricing adjustments
+|                                 |                                                       |
+|---------------------------------|-------------------------------------------------------|
+| Metric                          | Improvement                                           |
+| Reporting time                  | Reduced from 8 hrs/week to 20 min (‑95%)              |
+| Margin opportunities identified | +25% in high‑margin product mix                       |
+| Inventory anomaly detection     | Early warning, avoiding $120k in potential lost sales |
+| Pricing optimization            | +15% revenue from dynamic pricing adjustments         |
 
 👥 Who Should Use This?
 
+|                   	|                                                                          	|
 |-------------------	|--------------------------------------------------------------------------	|
 | Role              	| Use Case                                                                 	|
 | Data Teams        	| Replace fragile Excel‑based reports with automated, validated dashboards 	|
