@@ -95,6 +95,7 @@ Open: http://localhost:8501
 
 https://github.com/hgrubina/business_intelligence_suite/raw/main/images/dashboard_screenshot.png
 Live dashboard showing sales KPIs, automated insights, and validation alerts.
+
 📈 Real‑World Case Study: E‑commerce Analytics
 Client Challenge
 
@@ -120,7 +121,6 @@ Reporting time	Reduced from 8 hrs/week to 20 min (‑95%)
 Margin opportunities identified	+25% in high‑margin product mix
 Inventory anomaly detection	Early warning, avoiding $120k in potential lost sales
 Pricing optimization	+15% revenue from dynamic pricing adjustments
-
 👥 Who Should Use This?
 Role	Use Case
 Data Teams	Replace fragile Excel‑based reports with automated, validated dashboards
@@ -128,6 +128,7 @@ Business Analysts	Gain deeper insights without advanced statistical training
 Startup Founders	Implement scalable BI from day one, with scientific rigor
 Consultants	Deliver client‑ready dashboards with unique validation differentiator
 Academia/Research	Example of physics principles applied to real‑world data
+
 
 🔮 Ready‑to‑Deploy Extensions
 
