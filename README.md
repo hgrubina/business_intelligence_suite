@@ -17,6 +17,7 @@
 ---
 
 ## 🏗️ **Architecture Overview**
+```
 business_intelligence_suite/
 │
 ├── dashboards/ # Streamlit dashboards
@@ -36,7 +37,7 @@ business_intelligence_suite/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 **Technology Stack:**  
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard_App-red) ![Plotly](https://img.shields.io/badge/Plotly-Interactive_Visuals-purple) ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-green) ![SciPy](https://img.shields.io/badge/SciPy-Scientific_Computing-orange)
